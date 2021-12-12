@@ -1,18 +1,18 @@
 <?php
 
-$_Lang['DarkEnergyStatusIs']    = 'Dark Energy units on your account';
-$_Lang['BuyMoreDE']             = 'Purchase more Dark Energy!';
+$_Lang['DarkEnergyStatusIs']    = '你账户中的暗物质';
+$_Lang['BuyMoreDE']             = '购入更多暗物质！';
 
-$_Lang['aboutpro']              = 'Pro Account';
+$_Lang['aboutpro']              = '高级用户';
 
-$_Lang['Desc']                  = 'Pro Account extends the abilities of your regular account. You\'ll gain access to features locked from other players, which will allow you to manage your planets and fleets more efficiently. They will certainly help your empire to grow faster!';
+$_Lang['Desc']                  = '高级用户将会扩展你普通用户的功能。你可以访问其他玩家没有的特性，以让你更加有效的管理你的星球和舰队。这定会帮助你的帝国更快的发展！';
 
-$_Lang['BenefitsTitle']         = 'Pro Account benefits';
+$_Lang['BenefitsTitle']         = '高级账户权益';
 
 $_Lang['Benefits']              = [
-    'Construction Queue - extended to <b class="lime">10 slots</b>',
-    'Research Queue - <b class="lime">5 slots</b>',
-    '<b class="lime">Unlimited</b> access to the <b class="lime">Resources Merchant</b> (exchange your resources)',
+    '建造队列 - 扩充至<b class="lime">10个槽位</b>',
+    '研究队列 - <b class="lime">5个槽位</b>',
+    '<b class="lime">无限制</b>的访问<b class="lime">资源商人</b>（资源交换）',
     'Access to <b class="lime">Empire Overview</b> (overview all of your planets and moons in one place)',
     'Access to <b class="lime">Disassembler</b> (ability to turn your ships and defence systems into resources)',
     'Shipyard\'s Queue limit raised to <b class="lime">10 millions</b>',
