@@ -13,27 +13,27 @@ $_Lang['Benefits']              = [
     '建造队列 - 扩充至<b class="lime">10个槽位</b>',
     '研究队列 - <b class="lime">5个槽位</b>',
     '<b class="lime">无限制</b>的访问<b class="lime">资源商人</b>（资源交换）',
-    'Access to <b class="lime">Empire Overview</b> (overview all of your planets and moons in one place)',
-    'Access to <b class="lime">Disassembler</b> (ability to turn your ships and defence systems into resources)',
+    '解锁访问<b class="lime">帝国总览</b>（在一个地方查看你所拥有的所有星球和月球）',
+    '解锁访问<b class="lime">Disassembler</b> (ability to turn your ships and defence systems into resources)',
     'Shipyard\'s Queue limit raised to <b class="lime">10 millions</b>',
     'Access to <b class="lime">Attack\'s history list</b> (counting towards Bash rule)',
     'Resources transportation helper functionalities (<b class="lime">Auto-fill</b>)',
 ];
 
-$_Lang['ProAccStatus']          = 'Pro Account Status';
-$_Lang['ProTill']               = 'Valid until';
-$_Lang['ProEnded']              = 'Expired';
-$_Lang['NeverHadPro']           = 'Never bought';
+$_Lang['ProAccStatus']          = '高级账户状态';
+$_Lang['ProTill']               = '到期于';
+$_Lang['ProEnded']              = '已过期';
+$_Lang['NeverHadPro']           = '未购买';
 
-$_Lang['RenewPro']              = 'Extend by %s %s!';
-$_Lang['BuyAgain']              = 'Purchase again for %s %s!';
-$_Lang['FirstBuy']              = 'Purchase for %s %s!';
+$_Lang['RenewPro']              = '延长 %s %s!';
+$_Lang['BuyAgain']              = '再次购买以于 %s %s!';
+$_Lang['FirstBuy']              = '购买于 %s %s!';
 
-$_Lang['_day']                  = 'day';
-$_Lang['_days']                 = 'days';
+$_Lang['_day']                  = '日';
+$_Lang['_days']                 = '日';
 
-$_Lang['Cost']                  = 'Cost';
-$_Lang['CostUnits']             = 'Dark Energy units';
-$_Lang['AreYouSure']            = 'Are you sure?';
+$_Lang['Cost']                  = '花费';
+$_Lang['CostUnits']             = '暗能量单位';
+$_Lang['AreYouSure']            = '确定吗？';
 
 ?>
