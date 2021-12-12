@@ -20,7 +20,7 @@ $_Lang['Benefits']              = [
     'Resources transportation helper functionalities (<b class="lime">Auto-fill</b>)',
 ];
 
-$_Lang['ProAccStatus']          = '高级账户状态';
+$_Lang['ProAccStatus']          = '高级用户状态';
 $_Lang['ProTill']               = '到期于';
 $_Lang['ProEnded']              = '已过期';
 $_Lang['NeverHadPro']           = '未购买';
